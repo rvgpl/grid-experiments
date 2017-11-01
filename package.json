@@ -1,0 +1,15 @@
+{
+  "name": "grid-experiments",
+  "version": "1.0.0",
+  "description": "A bunch of experiments to learn and understand CSS Grid",
+  "main": "index.js",
+  "author": "Ravigopal Kesari <kesariravigopal@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
